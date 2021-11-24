@@ -1,6 +1,5 @@
 exp12:O2 < O3
 exp9:O1 < O2
-exp1-old:O2 < O3
 exp3:O2 < O3
 exp23:O2 < O3
 exp4b:O1 < O2
